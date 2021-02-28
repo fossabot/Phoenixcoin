@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FPhoenixcoin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FPhoenixcoin?ref=badge_shield)
+
 Phoenixcoin
 ===========
 
@@ -19,3 +21,7 @@ Download
 --------
 
 Please visit http://phoenixcoin.org if you need pre-compiled binaries for Windows, Linux, etc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FPhoenixcoin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhierarchy-orbit%2FPhoenixcoin?ref=badge_large)
